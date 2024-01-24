@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "name": "instagram",
+      "url": "https://www.instagram.com/pitskakihu/?hl=fr",
+      "image": "images/social/insta-logo.png"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Sami-musta/",
+      "image": "images/social/github.svg"
+    },
+    {
+      "name": "Portofolio",
+      "url": "https://webportofolio.my.canva.site/samimusta",
+      "image": "images/social/canva.svg"
+    }
+  ]
+}
